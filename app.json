@@ -1,0 +1,19 @@
+{
+  "name": "Moth-Lamp",
+  "description": "",
+  "scripts": {
+  },
+  "env": {
+    "NDk4NjA4MjU5NTk5NTY0ODAw.DrjPlg.3FzxZ6hY_UGmpJ0CXcuQyE1fEM0": ""
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
